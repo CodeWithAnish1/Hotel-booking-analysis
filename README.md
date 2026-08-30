@@ -143,14 +143,15 @@ Identified the countries contributing the highest number of cancelled bookings.
 
 ## 💡 Business Recommendations
 
-Based on the analysis:
+- Higher ADR appears to be associated with higher cancellation levels in the analysis. Hotels can experiment with targeted pricing strategies, promotional offers, and discounts for high-risk bookings rather than applying blanket price reductions.
 
-- Focus on reducing cancellations from **Online Travel Agent channels**.
-- Investigate booking policies that may contribute to high cancellation rates.
-- Use historical cancellation patterns to improve demand forecasting.
-- Consider targeted cancellation-prevention strategies during high-risk months.
-- Analyze deposit and customer-type behavior to identify high-risk bookings.
-- Optimize pricing and booking strategies based on seasonal ADR patterns.
+- City Hotels showed a higher cancellation rate (41.7%) than Resort Hotels (28.0%). City Hotels should focus on flexible pricing, targeted offers, and cancellation-prevention strategies to improve booking retention.
+
+- January recorded the highest cancellation rate among the analyzed months. Hotels can introduce targeted marketing campaigns, promotional packages, and attractive offers during this period to improve booking conversion and revenue.
+
+- Online Travel Agents showed a higher cancellation rate (46%) than Offline Travel Agents (23%). Hotels should review OTA booking policies, improve communication with customers, and introduce incentives for confirmed bookings to reduce cancellations.
+
+- Portugal accounted for the largest share of cancellations among the countries analyzed. Hotels operating in this market should investigate customer preferences, pricing, service quality, and booking-channel behavior before implementing targeted retention strategies.
 
 ---
 
